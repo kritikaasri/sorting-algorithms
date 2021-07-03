@@ -1,5 +1,5 @@
 def isempty(e):
-    return e == -1
+    return e == -1;
 
 
 def prepareLibrarySort(epsilon, n, S):
